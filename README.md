@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live with [Heroku](https://my-smart-brain2212.herokuapp.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
